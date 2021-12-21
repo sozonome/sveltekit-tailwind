@@ -47,3 +47,7 @@ SvelteKit setup
 TailwindCSS
 
 - https://codechips.me/tailwindcss-sveltekit-the-easy-way/
+
+Meta Tags
+
+- https://github.com/oekazuma/svelte-meta-tags (next-seo inspired)
