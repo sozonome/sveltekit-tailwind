@@ -36,3 +36,14 @@ npm run build
 ```
 
 > You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.
+
+## References
+
+SvelteKit setup
+
+- https://kit.svelte.dev/docs#introduction-getting-started
+- https://kit.svelte.dev/docs#configuration
+
+TailwindCSS
+
+- https://codechips.me/tailwindcss-sveltekit-the-easy-way/
