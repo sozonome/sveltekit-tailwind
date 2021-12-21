@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 @layer base {
-  .layout {
-    @apply max-w-[1000px] mx-auto;
-  }
+	.layout {
+		@apply max-w-[1000px] mx-auto;
+	}
 }
